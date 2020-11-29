@@ -27,3 +27,4 @@ ANTRAS BANDYMAS
 PENKTAS BANDYMAS
 (Train set accuracy 99.76% Validation set accuracy 98.92% Test set accuracy 87.05%)
 -viskas taip pat, tik padidinus bath iki 64, gaunam mazesnius svyravimus accuracy_value ir loss_value ir Geresni rezultaa
+![Alt text](bandymas5.png?raw=true "Title")
