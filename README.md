@@ -15,7 +15,11 @@ ANTRAS BANDYMAS
  
  TREČIAS BANDYMAS
  (Train set accuracy 99.16% Validation set accuracy 96.80% Test set accuracy 86.08%)
- - Konvoliuciniu sluoksnių normalizavimas su BatchNormalization(axis=-1) pridėjo dar keletą procentų.
+ - Po Konvoliuciniu sluoksnių normalizacija viena BatchNormalization(axis=-1) pridėjo dar keletą procentų.
  - Tie patys 3 dense sluoksniai
  P.S. accuracy_value ir loss_value labai sokineja
  
+ KETVIRTAS BANDYMAS
+ (Train set accuracy 99.41% Validation set accuracy 98.18% Test set accuracy 86.99%)
+ - Po KIEKVIENO Konvoliucinio sluoksnio normalizacija BatchNormalization(axis=-1) pridėjo dar keletą procentų.
+ - accuracy_value ir loss_value toliau sokineja
